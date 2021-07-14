@@ -5076,7 +5076,6 @@
      }
 
      .formcontainer {
-       margin:2rem auto; 
-       padding: 2rem;
+       border: 2px solid red;
      }
    }
