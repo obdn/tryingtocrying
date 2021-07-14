@@ -2735,7 +2735,6 @@
      display: block;
      margin-bottom: 0px;
      padding-bottom: 0px;
-     border:2px solid red;
    }
    
    .section-5 {
@@ -5078,6 +5077,7 @@
 
      .theonlyform {
        border:2px solid red;
+       color:red;
      }
 
    }
